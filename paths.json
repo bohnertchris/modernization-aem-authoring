@@ -1,7 +1,0 @@
-{
-  "mappings": [
-    "/content/modernization-aem-authoring/:/",
-    "/content/modernization-aem-authoring/metadata:/metadata.json",
-    "/content/modernization-aem-authoring/configuration:/.helix/config.json"
-  ]
-}
