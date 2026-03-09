@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/aem-block-collection/:/",
-    "/content/aem-block-collection/metadata:/metadata.json",
-    "/content/aem-block-collection/configuration:/.helix/config.json"
+    "/content/modernization-aem-authoring/:/",
+    "/content/modernization-aem-authoring/metadata:/metadata.json",
+    "/content/modernization-aem-authoring/configuration:/.helix/config.json"
   ]
 }
